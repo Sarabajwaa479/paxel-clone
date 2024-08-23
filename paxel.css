@@ -1,0 +1,129 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+.navbar{
+    padding-top: 1%;
+    padding-left: 2vw;
+    padding-right: 4vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.h1{
+    width: 14%;
+    color: black;
+    font-size: 20px;
+}
+.trending-btn{
+    background-color:rgb(252, 249, 249) ;
+    color: rgb(8, 8, 8);
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+}
+         
+        
+.trending-btn:hover{
+    background-color: rgb(99, 86, 99);
+    cursor: pointer;}
+
+.row{
+   display: flex;
+   align-items: center;
+   width: 100%;
+   justify-content: space-between;
+   padding-top: 1%;
+    padding-left: 2vw;
+    padding-right: 4vw;
+
+    }
+.row .col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   padding-top: 1%;
+    padding-left: 2vw;
+    padding-right: 4vw;
+}
+.row1{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 1%;
+     padding-left: 2vw;
+     padding-right: 4vw;
+ 
+     }
+ .row1 .col1{
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+    padding-top: 1%;
+     padding-left: 2vw;
+     padding-right: 4vw;
+     margin: 3%;
+ }
+ .row2{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 1%;
+     padding-left: 2vw;
+     padding-right: 4vw;
+ 
+     }
+ .row2 .col2{
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+    padding-top: 1%;
+     padding-left: 2vw;
+     padding-right: 4vw;
+     margin: 3%;
+ }
+ .row3{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 1%;
+     padding-left: 2vw;
+     padding-right: 4vw;
+ 
+     }
+ .row3 .col3{
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+    padding-top: 1%;
+     padding-left: 2vw;
+     padding-right: 4vw;
+     margin: 3%;
+ }
+ .row4{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 1%;
+     padding-left: 2vw;
+     padding-right: 4vw;
+ 
+     }
+ .row4 .col4{
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+    padding-top: 1%;
+     padding-left: 2vw;
+     padding-right: 4vw;
+     margin: 3%;}
